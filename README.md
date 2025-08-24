@@ -16,9 +16,9 @@
 
 ### Topics
 - HTML5
-  - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
+  - [Book](https://github.com/Huzaifa-Khan-Official/Books/blob/main/ASmarterWaytoLearnJavaScript.pdf)
 - CSS3
-  - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
+  - [Book](https://github.com/Huzaifa-Khan-Official/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
 - CSS Variables
   - [W3schools](https://www.w3schools.com/css/css3_variables.asp)
 - CSS Animations
@@ -58,8 +58,8 @@
 
 ### Topics
 - JavaScript
-  - [Book](https://github.com/ghousahmed/Books/blob/master/ASmarterWaytoLearnJavaScript.pdf)
-  - [Assignments](https://github.com/ghousahmed/javascript-exercises)
+  - [Book (A Smarter Way to Learn JavaScript)](https://github.com/Huzaifa-Khan-Official/Books/blob/master/ASmarterWaytoLearnJavaScript.pdf)
+  - [Assignments](https://github.com/Huzaifa-Khan-Official/javascript-exercises)
 - Advanced Javascript (All ES Versions)
   - Variable Scoping
   - Closure
